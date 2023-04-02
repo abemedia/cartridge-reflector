@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     httpclient (2.4.0)
-    rack (1.5.2)
+    rack (1.6.13)
     rack-protection (1.5.0)
       rack
     safe_yaml (0.9.1)
